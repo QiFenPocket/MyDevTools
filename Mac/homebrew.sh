@@ -31,6 +31,7 @@ brew install --cask cleanshot
 brew install --cask microsoft-edge 
 brew install --cask slack
 brew install --cask tunnelblick
+brew install --cask adobe-acrobat-reader
 
 brew install htop
 brew install tmux
